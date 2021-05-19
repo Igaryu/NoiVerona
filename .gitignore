@@ -1,0 +1,8 @@
+.git
+*.tar
+LiveCode
+bin
+include
+lib
+*.dump
+*.pyc
